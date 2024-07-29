@@ -1,0 +1,10 @@
+{
+  "Configurations": [
+    {
+      "Board": "ESP32_DEV",
+      "Version": "1.0.0",
+      "Device": "30:C6:F7:24:AC:38",
+      "URL": "https://gitee.com/mirrors_thingsboard/esp32-ota/blob/master/firmware/example-v1.1.bin"
+    }
+  ]
+}
