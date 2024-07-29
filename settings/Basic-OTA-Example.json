@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Board": "ESP32S3_DEV",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Device": "DC:54:75:EB:36:C4",
       "URL": "https://gitee.com/mirrors_thingsboard/esp32-ota/blob/master/firmware/example-v1.1.bin"
     }
